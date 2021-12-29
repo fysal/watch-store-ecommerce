@@ -1,4 +1,4 @@
-# carousel
+# Watch store ecommerce
 
 Custom carousel
 
