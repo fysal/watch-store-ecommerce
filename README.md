@@ -1,6 +1,6 @@
 # Watch store ecommerce
 
-Custom carousel
+Ecommerce store for selling watches
 
 ## Getting Started
 
